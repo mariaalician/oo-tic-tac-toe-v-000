@@ -106,3 +106,4 @@ def play
   end
 end
 end
+@board.play
