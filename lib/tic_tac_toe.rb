@@ -1,5 +1,5 @@
 class TicTacToe
-  
+  play
   def initialize
       @board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   end
@@ -107,4 +107,3 @@ def play
   end
 end
 end
-play
