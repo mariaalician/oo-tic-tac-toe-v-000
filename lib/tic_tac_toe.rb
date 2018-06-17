@@ -107,4 +107,3 @@ def play
   end
 end
 end
-play TicTacToe
